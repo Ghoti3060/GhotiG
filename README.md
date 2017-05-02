@@ -1,0 +1,2 @@
+# GhotiG
+libgdx game
